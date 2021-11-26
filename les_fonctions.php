@@ -12,3 +12,5 @@ foreach($insultes as $insulte){
 $phrase=readline('Entrez un mot : '."\n");
 $phrase=str_replace($insultes,$astertique,$phrase);
 echo $phrase;
+
+//un commit
