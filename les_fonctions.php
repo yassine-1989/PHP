@@ -13,4 +13,4 @@ $phrase=readline('Entrez un mot : '."\n");
 $phrase=str_replace($insultes,$astertique,$phrase);
 echo $phrase;
 
-//un commit//
+//un commit////
